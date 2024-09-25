@@ -9,7 +9,6 @@ This simple Server/Client software that allows for clients to reggister their at
   ➡️ OOP <br>
   ➡️ MVC - Design Pattern <br>
   ➡️ Serialization <br>
-  ➡️ Java RMI(Remote Method Invocation) <br>
   ➡️ TCP <br>
   ➡️ UDP <br>
   ➡️ SQLite (Relational Database)
